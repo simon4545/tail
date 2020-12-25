@@ -18,8 +18,8 @@ designed to work with log rotation tools.
 
 ## Installing
 
-    go get github.com/hpcloud/tail/...
+    go get github.com/simon4545/tail/...
 
 ## Windows support
 
-This package [needs assistance](https://github.com/hpcloud/tail/labels/Windows) for full Windows support.
+This package [needs assistance](https://github.com/simon4545/tail/labels/Windows) for full Windows support.
