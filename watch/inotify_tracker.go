@@ -10,7 +10,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/hpcloud/tail/util"
+	"github.com/simon4545/tail/util"
 	"github.com/fsnotify/fsnotify"
 )
 
