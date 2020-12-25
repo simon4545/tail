@@ -17,7 +17,6 @@ Tail comes with full support for truncation/move detection as it is
 designed to work with log rotation tools.
 
 ## Installing
-
     go get github.com/simon4545/tail/...
 
 ## Windows support
